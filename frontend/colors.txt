@@ -23,31 +23,41 @@ Amber (Attention & Energy):
 Lime Green (Action & Energy):
 
 #CDDC39 – A vibrant lime green to represent energy and activity. It can be used for success messages, active selections, or visual elements that need a pop of color.
+
+
+
+
+
+
 Sample Usage of Colors:
 Background:
-
 Deep charcoal (#121212) as the primary background color for the app to create a sleek and modern interface with low eye strain.
+
 Headers & Titles:
-
 Dark green (#2C6B4F) for primary headings and important titles, providing a sense of sustainability while standing out against the dark background.
-Buttons & Actions:
 
+Buttons & Actions:
 Electric blue (#1E88E5) for primary buttons (e.g., "Upload Map", "Generate Report") to draw attention without being overly harsh.
 Dark green (#388E3C) for secondary or less critical actions.
+
 Links & Highlights:
-
 Electric blue (#1E88E5) for links and hover effects to give them a bright, clear look against dark backgrounds.
-Text:
 
+Text:
 Light gray (#B0BEC5) for general text, ensuring good contrast with the dark background.
 Dark gray (#E0E0E0) for secondary text or less critical information.
+
 Sidebar or Side Panels:
-
 Muted green (#388E3C) for side panels or backgrounds of secondary sections to add visual interest while complementing the dark theme.
-Alerts & Notifications:
 
+Alerts & Notifications:
 Amber (#FFB300) for warnings, errors, or critical notifications. This color is vibrant enough to attract attention but not overly jarring.
 Lime green (#CDDC39) can be used for success messages or confirmation notifications.
+
+
+
+
+
 Color Scheme Example in Action:
 Background: Deep charcoal (#121212) for the entire background of the app to create a dark mode interface.
 Header & Sidebar: Dark green (#2C6B4F) for the header and sidebar, maintaining the sustainability theme while standing out from the background.
