@@ -1,0 +1,57 @@
+Dark Color Scheme
+Primary Colors
+Dark Green (Sustainability & Nature):
+#2C6B4F – A rich, dark green that symbolizes eco-friendliness and nature. This can be used for key accents like buttons, headings, and highlights.
+Electric Blue (Technology & Trust):
+#1E88E5 – A bright electric blue that stands out against dark backgrounds and reflects the technological and energetic aspect of the app. It can be used for links, buttons, and interactive elements.
+Secondary Colors
+Deep Charcoal (Background):
+#121212 – A very dark gray background that provides a sleek, modern feel. It serves as the base color for the entire app.
+Muted Green (For accents):
+#388E3C – A darker green used to complement the primary dark green and electric blue. It can be used for secondary buttons, side panels, or subtle elements.
+Neutral Colors
+Light Gray (Text & Subtle Elements):
+
+#B0BEC5 – A soft light gray for text, ensuring readability against the dark background while still looking sleek and modern.
+Dark Gray (Text & Content):
+
+#E0E0E0 – A slightly lighter gray than the background for secondary text or important content, giving a subtle contrast for readability.
+Accent Colors
+Amber (Attention & Energy):
+
+#FFB300 – A bright amber shade for highlighting active items, notifications, or warnings. It can also be used for progress bars or call-to-action items.
+Lime Green (Action & Energy):
+
+#CDDC39 – A vibrant lime green to represent energy and activity. It can be used for success messages, active selections, or visual elements that need a pop of color.
+Sample Usage of Colors:
+Background:
+
+Deep charcoal (#121212) as the primary background color for the app to create a sleek and modern interface with low eye strain.
+Headers & Titles:
+
+Dark green (#2C6B4F) for primary headings and important titles, providing a sense of sustainability while standing out against the dark background.
+Buttons & Actions:
+
+Electric blue (#1E88E5) for primary buttons (e.g., "Upload Map", "Generate Report") to draw attention without being overly harsh.
+Dark green (#388E3C) for secondary or less critical actions.
+Links & Highlights:
+
+Electric blue (#1E88E5) for links and hover effects to give them a bright, clear look against dark backgrounds.
+Text:
+
+Light gray (#B0BEC5) for general text, ensuring good contrast with the dark background.
+Dark gray (#E0E0E0) for secondary text or less critical information.
+Sidebar or Side Panels:
+
+Muted green (#388E3C) for side panels or backgrounds of secondary sections to add visual interest while complementing the dark theme.
+Alerts & Notifications:
+
+Amber (#FFB300) for warnings, errors, or critical notifications. This color is vibrant enough to attract attention but not overly jarring.
+Lime green (#CDDC39) can be used for success messages or confirmation notifications.
+Color Scheme Example in Action:
+Background: Deep charcoal (#121212) for the entire background of the app to create a dark mode interface.
+Header & Sidebar: Dark green (#2C6B4F) for the header and sidebar, maintaining the sustainability theme while standing out from the background.
+Buttons: Electric blue (#1E88E5) for primary action buttons and lime green (#CDDC39) for secondary buttons or success actions.
+Text: Light gray (#B0BEC5) for body text and headings, with dark gray (#E0E0E0) for less important text.
+Links: Electric blue (#1E88E5) for links and hover effects, creating a clean and modern interface.
+Alerts: Amber (#FFB300) for warning and error messages, lime green (#CDDC39) for success or confirmation.
